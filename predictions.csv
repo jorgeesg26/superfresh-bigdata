@@ -1,0 +1,5 @@
+store_id,product_id,promotion,temperature,day,month,day_of_week,predicted_sales
+1,101,1,22,8,1,0,142
+1,102,0,22,8,1,0,90
+2,101,1,23,8,1,0,132
+2,102,0,23,8,1,0,85
